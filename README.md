@@ -88,13 +88,13 @@ Here you find the quick learning materials of python in 30 days
     * counting alphabets using for loop
 
 
-[Day 10](https://github.com/ameenoorraseed/Python/tree/main/Day%210)
+[Day 10](https://github.com/ameenoorraseed/Python/tree/main/Day%2010)
 
   * String
     * operators basic
         
 
-[Day 11](https://github.com/ameenoorraseed/Python/tree/main/Day%211)
+[Day 11](https://github.com/ameenoorraseed/Python/tree/main/Day%2011)
 
   * List
     * introduction
@@ -104,7 +104,7 @@ Here you find the quick learning materials of python in 30 days
     * list creation 2D - Nested list
     
 
-[Day 12](https://github.com/ameenoorraseed/Python/tree/main/Day%212)
+[Day 12](https://github.com/ameenoorraseed/Python/tree/main/Day%2012)
 
   * List
     * list comprehension
@@ -117,7 +117,7 @@ Here you find the quick learning materials of python in 30 days
     * list updation
 
 
-[Day 13](https://github.com/ameenoorraseed/Python/tree/main/Day%213)
+[Day 13](https://github.com/ameenoorraseed/Python/tree/main/Day%2013)
 
   * List
     * sorting - introduction
@@ -125,7 +125,7 @@ Here you find the quick learning materials of python in 30 days
     * insertion sort
   
  
-[Day 14](https://github.com/ameenoorraseed/Python/tree/main/Day%214)
+[Day 14](https://github.com/ameenoorraseed/Python/tree/main/Day%2014)
 
   * List
     * copy module
@@ -134,7 +134,7 @@ Here you find the quick learning materials of python in 30 days
     * comparision of iteration vs comprehension
     
     
-[Day 15](https://github.com/ameenoorraseed/Python/tree/main/Day%215)
+[Day 15](https://github.com/ameenoorraseed/Python/tree/main/Day%2015)
 
 * List
     * pop()
@@ -145,7 +145,7 @@ Here you find the quick learning materials of python in 30 days
     * sum of elements - program
     
     
-[Day 16](https://github.com/ameenoorraseed/Python/tree/main/Day%216)
+[Day 16](https://github.com/ameenoorraseed/Python/tree/main/Day%2016)
 
 * List
     * append()
@@ -157,7 +157,7 @@ Here you find the quick learning materials of python in 30 days
     * list()
    
    
-[Day 17](https://github.com/ameenoorraseed/Python/tree/main/Day%217)
+[Day 17](https://github.com/ameenoorraseed/Python/tree/main/Day%2017)
 
 * Tuple
     * tuple()
@@ -172,7 +172,7 @@ Here you find the quick learning materials of python in 30 days
     * tuple updation
     
     
-[Day 18](https://github.com/ameenoorraseed/Python/tree/main/Day%218)
+[Day 18](https://github.com/ameenoorraseed/Python/tree/main/Day%2018)
 
 * Tuple
     * count()
@@ -187,7 +187,7 @@ Here you find the quick learning materials of python in 30 days
     * tuple sorting
         
     
-[Day 19](https://github.com/ameenoorraseed/Python/tree/main/Day%219)
+[Day 19](https://github.com/ameenoorraseed/Python/tree/main/Day%2019)
 
 * Dictionary
     * dict()
@@ -198,7 +198,7 @@ Here you find the quick learning materials of python in 30 days
     * properties
     
     
-[Day 20](https://github.com/ameenoorraseed/Python/tree/main/Day%220)
+[Day 20](https://github.com/ameenoorraseed/Python/tree/main/Day%2020)
 
 * Array
     * introduction
@@ -209,7 +209,7 @@ Here you find the quick learning materials of python in 30 days
     * properties
     
     
-[Day 21](https://github.com/ameenoorraseed/Python/tree/main/Day%221)
+[Day 21](https://github.com/ameenoorraseed/Python/tree/main/Day%2021)
 
 * Class
     * introduction
@@ -218,7 +218,7 @@ Here you find the quick learning materials of python in 30 days
     * class based stack program - data structures
  
     
-[Day 22](https://github.com/ameenoorraseed/Python/tree/main/Day%222)
+[Day 22](https://github.com/ameenoorraseed/Python/tree/main/Day%2022)
 
 * Class
     * introduction new examples
