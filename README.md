@@ -66,6 +66,17 @@ Here you find the quick learning materials of python in 30 days
     * lstrip()
     * rstrip()
     
+[Day 9](https://github.com/ameenoorraseed/Python/tree/main/Day%209)
+
+  * String Methods
+    * Traversal
+    * counting alphabets
+    * counting numbers
+    * special characters
+    * counting alphabets and numbers
+    * counting alphabets and numbers also special characters
+    * counting alphabets using while loop
+    * counting alphabets using for loop
 
 
 
