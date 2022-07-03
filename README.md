@@ -198,7 +198,7 @@ Here you find the quick learning materials of python in 30 days
     * properties
     
     
- [Day 20](https://github.com/ameenoorraseed/Python/tree/main/Day%220)
+[Day 20](https://github.com/ameenoorraseed/Python/tree/main/Day%220)
 
 * Array
     * introduction
@@ -209,7 +209,7 @@ Here you find the quick learning materials of python in 30 days
     * properties
     
     
- [Day 21](https://github.com/ameenoorraseed/Python/tree/main/Day%221)
+[Day 21](https://github.com/ameenoorraseed/Python/tree/main/Day%221)
 
 * Class
     * introduction
@@ -218,8 +218,10 @@ Here you find the quick learning materials of python in 30 days
     * class based stack program - data structures
  
     
-        
-       
-    
-    
+[Day 22](https://github.com/ameenoorraseed/Python/tree/main/Day%222)
 
+* Class
+    * introduction new examples
+    * creation of classes
+    * properties
+        
