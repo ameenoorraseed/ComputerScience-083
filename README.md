@@ -1,5 +1,5 @@
 # Python
-Computer Science with Python
+Python programming 
 
 Here you find the quick learning materials of python in 30 days 
 
