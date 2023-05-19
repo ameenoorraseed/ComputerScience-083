@@ -3,7 +3,6 @@
 # reverse
 # sort
 
-# delete - del ->
 # pop()
 
 my_list = [44,1,-4,8,4,32,0.3]
